@@ -44,7 +44,7 @@ se identificó un dato muy interesante: existe una marcada diferencia en términ
 ### En conclusión, el análisis exploratorio de datos reveló tendencias, relaciones y diferencias importantes, y el dashboard en Power BI amplió aún más el conjunto de datos interesantes y relevantes.
 
 
-<img src="img/dashboard.PNG" alt="Dash">
+<img src="img/dashboard2.PNG" alt="Dash">
 
 
 ***
